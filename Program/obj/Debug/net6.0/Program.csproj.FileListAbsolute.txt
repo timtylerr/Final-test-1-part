@@ -1,0 +1,15 @@
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\bin\Debug\net6.0\Program.exe
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\bin\Debug\net6.0\Program.dll
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.dll
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\refint\Program.dll
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\dorofeevsv\Desktop\GIT\221208_Final test\Final-test-1-part\Program\obj\Debug\net6.0\ref\Program.dll
